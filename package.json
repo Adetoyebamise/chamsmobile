@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@nestjs/mapped-types": "*",
+    "@nestjs/typeorm": "^9.0.1",
+    "sqlite3": "^5.1.4"
+  },
+  "devDependencies": {
+    "@types/babel__core": "^7.20.0"
+  }
+}
