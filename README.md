@@ -1,6 +1,6 @@
-# chamsmobile
-Developer Assessment
-## Chamsmobile Backend 
+# Redux && Nest
+
+## Redux && Nest Backend 
 
 ### Requirements
 
@@ -37,7 +37,7 @@ npm run start:dev
 
 ### Testing Locally...
 
-## Chamsmobile Frontend 
+## Redux && Nest
 
 > Code from the "FRONTEND". Simple implementation of Redux using a couple React components.
 
